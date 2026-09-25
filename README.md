@@ -13,7 +13,7 @@
   <a href="mailto:elsharawyhussein@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://codeforces.com/profile/husseinlshaarawy"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
   <!-- Replace YOUR-LINKEDIN with your LinkedIn profile slug -->
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/hussein-elshaarawy-215bb5131"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=husseinlshaarawy&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS" />
 </p>
 
